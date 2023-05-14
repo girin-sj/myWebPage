@@ -1,3 +1,10 @@
 [submodule "themes/ hugo-developer-portfolio"]
 	path = themes/ hugo-developer-portfolio
 	url = https://github.com/samrobbins85/hugo-developer-portfolio
+[submodule "themes/hugo-developer-portfolio"]
+	path = themes/hugo-developer-portfolio
+	url = https://github.com/samrobbins85/hugo-developer-portfolio
+[submodule "public"]
+	path = public
+	url = git@github.com:girin-sj/girin-sj.github.io.git
+	branch = main
