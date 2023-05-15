@@ -39,16 +39,16 @@ theme="hugo-developer-portfolio"
 [params]
 home = "Home" # What you want the homepage to show up as in the menu bar
 # Meta data
-description = "홍길동의 웹사이트, 한국한공대학교 소프트웨어학과 2학녕"
-author = "홍길동"
+description = "이서정의 웹사이트, 한국한공대학교 소프트웨어학과 2학년"
+author = "이서정"
 
   [params.contact]
   formAction = "https://formspree.io/<Insert code>" # Add your formspree URL here to get emails
 
   # This contains the contact information for the footer
   [params.footer]
-  email = "test@kau.ac.kr"
-  address = "대한민국 경기도 고양시"
+  email = "penguins2@kau.ac.kr"
+  address = "대한민국 경기도 고양시 덕양구"
 
 [markup]
   [markup.highlight]
